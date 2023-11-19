@@ -1,6 +1,6 @@
 description = "Spring TestContext Framework"
 
-apply plugin: "kotlin"
+//apply plugin: "kotlin"
 
 dependencies {
 	api(project(":spring-core"))

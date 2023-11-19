@@ -1,6 +1,6 @@
 description = "Spring R2DBC"
 
-apply plugin: "kotlin"
+//apply plugin: "kotlin"
 
 dependencies {
 	api(project(":spring-beans"))

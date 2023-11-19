@@ -62,7 +62,7 @@ dependencies {
 	testImplementation("io.projectreactor:reactor-core")
 	testImplementation("io.reactivex.rxjava3:rxjava")
 	testImplementation("org.jetbrains.kotlin:kotlin-script-runtime")
-	testRuntimeOnly("org.jetbrains.kotlin:kotlin-scripting-jsr223")
+//	testRuntimeOnly("org.jetbrains.kotlin:kotlin-scripting-jsr223")
 	testRuntimeOnly("org.jruby:jruby")
 	testRuntimeOnly("org.python:jython-standalone")
 	testRuntimeOnly("org.webjars:underscorejs")
