@@ -1,7 +1,7 @@
 description = "Spring Context"
 
 apply plugin: "groovy"
-apply plugin: "kotlin"
+//apply plugin: "kotlin"
 
 dependencies {
 	api(project(":spring-aop"))
