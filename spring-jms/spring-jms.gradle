@@ -12,8 +12,8 @@ dependencies {
 	optional("javax.resource:javax.resource-api")
 	optional("javax.transaction:javax.transaction-api")
 	optional("com.fasterxml.jackson.core:jackson-databind")
-	testImplementation(testFixtures(project(":spring-beans")))
-	testImplementation(testFixtures(project(":spring-tx")))
-	testImplementation("org.apache.activemq:activemq-broker")
-	testImplementation("javax.jms:javax.jms-api")
+//	testImplementation(testFixtures(project(":spring-beans")))
+//	testImplementation(testFixtures(project(":spring-tx")))
+//	testImplementation("org.apache.activemq:activemq-broker")
+//	testImplementation("javax.jms:javax.jms-api")
 }
